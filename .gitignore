@@ -1,4 +1,28 @@
+# Local environment and secrets
+.env
+.venv/
 venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Tooling and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated application artifacts
+outputs/reports/*
+outputs/presentations/*
+!outputs/reports/.gitkeep
+!outputs/presentations/.gitkeepvenv/
 .env
 __pycache__/
 *.pyc
