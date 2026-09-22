@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+openpyxl
+groq
+langgraph
+python-docx
+python-pptx
+plotly
+python-dotenv
+
